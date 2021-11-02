@@ -1,11 +1,11 @@
 # Readme
 
-## `Purpose`
+## Purpose
 This readme is a description of how format a resume with Markdown and host it on GitHub with the help of Jekyll and GitHub Pages.
 All of this also relates to the general principles of current Technical Writing, as explained in Andrew Etter's book Modern Technical Writing.
 Given below is a sample of a resume formatted in Markdown.
 
-## `Markdown Formatted Resume `
+## Markdown Formatted Resume 
 
     # Abu Yasin Sabik
     90 Brotman Bay, Winnipeg, MB R2N 2P1  
@@ -99,7 +99,7 @@ Given below is a sample of a resume formatted in Markdown.
 ---
 # Instructions on creating and hosting the resume
 
-## `1. Creating the resume with a Lightweight Markup Language`
+## 1. Creating the resume with a Lightweight Markup Language
 
 The first step is to create the actual resume and format it using a Lightweight Markup Language.
 In his book Modern Technical Writing, Andrew Etter recommends using Markdown to do this. 
@@ -137,7 +137,7 @@ Although there are many specialized text editors for markdown, Etter suggests th
 - [ReText](https://sourceforge.net/directory/development/wordprocessors/os:windows/) (Linux)
 
 
-## `2. Uploading the resume to GitHub`
+## 2. Uploading the resume to GitHub
 
 The next step is to upload the markdown formatted resume to a distributed version control system (DVCS) such as Git or Mercurial. Etter highly emphasizes using DVCS over centralized systems because they have better performance, allow for offline work, and are superior for concurrent work on the same file. Etter quotes, "For technical writers, the most important reason to use DVCS is that develops prefer them.
 
@@ -152,7 +152,7 @@ To use Github, we would first need to create an account. The steps to do this is
 
 The resume should now be successfully uploaded to the online repository. The last two steps can also be done using the command line. Steps to do this can be found [here](https://guides.github.com/activities/hello-world/).
 
-## `3. Hosting the resume on Github Pages`
+## 3. Hosting the resume on Github Pages
 
 The final step to this task is to use a static website to host the resume that we created. In his book, Etter deeply encourages making static websites due to their speed, simplicity, portability, and security. Additionally, they have no server-side application dependencies, no databases, and nothing to install. Although Etter prefers using Sphinx, we will be using Jekyll since it is the most popular and is readily availabe for use in GitHub Pages.
 
