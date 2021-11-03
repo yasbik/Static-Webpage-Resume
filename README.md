@@ -6,12 +6,12 @@ This readme is a description of how to format a resume with Markdown and host it
 ## **Prerequisites**
 
 - A Markdown editor.
-    - A list of popular markdown editors is presented in Additional Resources.
+    - A list of popular markdown editors is presented in [Additional Resources](https://github.com/yasbik/yasbik.github.io#additional-resources).
 - A resume, formatten in Markdown.
-    - A Markdown tutorial is included under Additional Resources.
+    - A Markdown tutorial is included under [Additional Resources](https://github.com/yasbik/yasbik.github.io#additional-resources).
     - A sample markdown formatted resume is available [here](https://github.com/yasbik/yasbik.github.io/blob/main/index.md).
 - A [GitHub](https://github.com/) account.
-    - A tutorial on getting started with GitHub is included under Additional Resources.
+    - A tutorial on getting started with GitHub is included under [Additional Resources](https://github.com/yasbik/yasbik.github.io#additional-resources).
 
 ## **Instructions**
 
