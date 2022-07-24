@@ -46,7 +46,7 @@ Relevant Coursework:
 
 * Technology/Software used: Android Studio, Java, HTML/CSS, JavaScript, Junit, Mockito
 
-## **Chowtown** - *A Website for ordering food*
+## **Chow Town** - *A Website for ordering food*
 
 * A food ordering website which focuses heavily in UI/UX and implements innovative ideas to ensure better handling and navigation for all sorts of users.
 
