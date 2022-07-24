@@ -40,13 +40,13 @@ Relevant Coursework:
 
 # Projects
 
-## **Ixalan** - *An Android Application for booking movie tickets*
+### **Ixalan** - *An Android Application for booking movie tickets*
 
 * A mobile/android application for booking movie tickets and purchasing movie merchandise. It follows software engineering principles, agile development, and thorough testing. A static website was also built for marketing and exposure of the product.
 
 * Technology/Software used: Android Studio, Java, HTML/CSS, JavaScript, Junit, Mockito
 
-## **Chow Town** - *A Website for ordering food*
+### **Chow Town** - *A Website for ordering food*
 
 * A food ordering website which focuses heavily in UI/UX and implements innovative ideas to ensure better handling and navigation for all sorts of users.
 
