@@ -1,3 +1,5 @@
+View my resume at https://yasbik.github.io/
+
 # Hosting a Resume on GitHub Pages
 
 ## **Purpose**
