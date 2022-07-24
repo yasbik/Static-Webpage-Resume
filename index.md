@@ -1,6 +1,6 @@
 # Abu Yasin Sabik
 Oakville, Ontario, Canada  
-https://www.linkedin.com/in/yasinsabik/  
+[LinkedIn](https://www.linkedin.com/in/yasinsabik/)  
 yasin00sabik@gmail.com
 
 ---
