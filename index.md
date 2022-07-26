@@ -41,15 +41,20 @@ Relevant Coursework:
 
 ### **[Ixalan](https://github.com/yasbik/Ixalan)** - *An Android Application for booking movie tickets*
 
-* A mobile/android application for booking movie tickets and purchasing movie merchandise. It follows software engineering principles, agile development, and thorough testing. A static website was also built for marketing and exposure of the product.
-
-* Technology/Software used: Android Studio, Java, HTML/CSS, JavaScript, Junit, Mockito
+* Developed a mobile/android application for booking movie tickets and purchasing movie merchandise. 
+*	Followed agile development techniques and software engineering principles/design patterns for increased maintainability and minimal technical debt.
+*	Utilized Test-Driven Development (TDD) for thorough testing and achieved over 90% test coverage for the final project.
+*	Created a relational database for persistent storage of data.
+*	Built a static website for marketing and exposure of the product.
+*	Technology/Software used: Android Studio, Java, HTML/CSS, JavaScript, SQLite, Junit
 
 ### **[Chow Town](https://github.com/yasbik/Chow-Town)** - *A Website for ordering food*
 
-* A food ordering website which focuses heavily in UI/UX and implements innovative ideas to ensure better handling and navigation for all sorts of users.
+*	Built an interactive website for ordering food, with a heavy focus on UI/UX. 
+*	Implemented innovative ideas and design structures to ensure better handling and navigation for users.
+*	Focused on using User-Centered Design (UCD) principles to maximize efficiency and utility while minimizing learnability.
+*	Technology/Software used: HTML/CSS, Bootstrap, JavaScript, ReactJS
 
-* Technology/Tools/Software used: HTML/CSS, Javascript, ReactJS
 
 ---
 
