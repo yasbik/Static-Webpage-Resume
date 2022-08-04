@@ -28,11 +28,12 @@ Relevant Coursework:
 
 |  |  |
 | --- | --- |
-| Programming Languages | C, C++, Java, Javascript, Python,Dystem Tap |
+| Programming Languages | C, C++, C#, Java, JavaScript, Python, R, HTML, CSS |
+| Tools/Frameworks | Bootstrap, React/React.js, Android Studio, Microsoft Visual Studio, YAML, Swagger, Markdown, VM Ware, MS Azure, Markdown |
+| Testing Frameworks | JUnit, Mockito |
 | Database Management Systems | SQL, MySQL, SQLite3, Neo4J |
-| Version Control | Git, Github, GitLab |
+| Code Version Control | Git, Github, GitLab |
 | Development Practices | Agile Development, Test Driven Development |
-| Tools/Technology | Android Studio, Vim, VMware, VS Code, IntelliJ, Office365, Google Workspace |
 | Operating Systems | Windows, MacOS, Unix, Linux |
 
 ---
@@ -55,6 +56,10 @@ Relevant Coursework:
 *	Focused on using User-Centered Design (UCD) principles to maximize efficiency and utility while minimizing learnability.
 *	Technology/Software used: HTML/CSS, Bootstrap, JavaScript, ReactJS
 
+### **[Finding Aurora API](https://github.com/yasbik/Finding-Aurora-API)** - An OpenAPI Specification (OAS) Project
+*	An API that lets users find information about past and future northern lights using different inputs.
+*	Designed and developed an API, maintained with thorough documentation.
+*	Technology / Software used: YAML, Swagger, Markdown
 
 ---
 
