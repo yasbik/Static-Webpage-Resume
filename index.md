@@ -4,6 +4,10 @@ yasin00sabik@gmail.com
 
 ---
 
+Recent computer science graduate with in-depth knowledge of data structures, algorithms, and software design, development, testing, and debugging. A fast learner with excellent analytical, problem solving, and programming skills. Experienced in working on the full stack of software development, web development, and mobile application development. Fundamental proficiency with DevOps tools, MS Azure cloud platform, source control tools, and distributed systems.
+
+---
+
 # Education
 
 ## **Bachelor of Science (B.Sc.) in Computer Science**  
@@ -42,24 +46,29 @@ Relevant Coursework:
 
 ### **[Ixalan](https://github.com/yasbik/Ixalan)** - *An Android Application for booking movie tickets*
 
-* Developed a mobile/android application for booking movie tickets and purchasing movie merchandise. 
-*	Followed agile development techniques and software engineering principles/design patterns for increased maintainability and minimal technical debt.
-*	Utilized Test-Driven Development (TDD) for thorough testing and achieved over 90% test coverage for the final project.
+*	Developed a mobile/android application for booking movie tickets and purchasing movie merchandise. 
+*	Followed agile development techniques and software engineering principles/design patterns for minimal technical debt and increased maintainability and security. Exercised judgement to identify and diagnose further problems.
+*	Utilized Test Driven Development (TDD) to write unit tests, integration tests, and end-to-end tests. Achieved over 90% test coverage for the final product.
 *	Created a relational database for persistent storage of data.
-*	Built a static website for marketing and exposure of the product.
-*	Technology/Software used: Android Studio, Java, HTML/CSS, JavaScript, SQLite, Junit
+*	Examined business requirements and built a static website for marketing and exposure of the product.
+*	Technology / Software used: Android Studio, Java, HTML, CSS, JavaScript, SQLite, Junit
+
 
 ### **[Chow Town](https://github.com/yasbik/Chow-Town)** - *A Website for ordering food*
 
-*	Built an interactive website for ordering food, with a heavy focus on UI/UX. 
-*	Implemented innovative ideas and design structures to ensure better handling and navigation for users.
-*	Focused on using User-Centered Design (UCD) principles to maximize efficiency and utility while minimizing learnability.
-*	Technology/Software used: HTML/CSS, Bootstrap, JavaScript, ReactJS
+*	Built an interactive website for ordering food, with significant focus on user interface (UI) and user experience (UX). 
+*	Explored a wide array of user stories and possible features to produce supportable, scalable, practical solutions.
+*	Implemented innovative ideas and design structures to ensure better web accessibility, handling, and navigation.
+*	Focused on using User Centered Design (UCD) principles to maximize efficiency, utility, and learnability.
+*	Technology / Software used: HTML, CSS, Bootstrap, JavaScript, React
+
 
 ### **[Finding Aurora API](https://github.com/yasbik/Finding-Aurora-API)** - An OpenAPI Specification (OAS) Project
-*	An API that lets users find information about past and future northern lights using different inputs.
-*	Designed and developed an API, maintained with thorough documentation.
+
+* Designed an API that lets users find information about past and future northern lights using different inputs.
+*	Followed standard architecture patterns and thorough documentation for optimization and best practices.
 *	Technology / Software used: YAML, Swagger, Markdown
+
 
 ---
 
